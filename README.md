@@ -28,8 +28,7 @@ Hi, I'm Arturo Tenorio, a passionate self-taught Full Stack developer from Mexic
 <br/>
 <br/>
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
-
-<br/>
+<br>
 <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=arturoturris&show_icons=true&include_all_commits=true&theme=prussian" alt="Arturo's github stats" />
-<br/>
+<br>
 <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturoturris&layout=compact&theme=prussian" />
